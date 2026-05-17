@@ -22,3 +22,4 @@ if __name__ == "__main__":
 
     avg = sum / w
     print(f"Twoja średnia ważona to: {avg}")
+    print("Zamykanie programu...")

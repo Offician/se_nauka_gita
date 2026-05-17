@@ -13,3 +13,4 @@ if __name__ == "__main__":
         sum += i
     avg = sum / list.__len__()
     print(f"Twoja średnia to: {avg}")
+    print("Zamykanie programu...")
