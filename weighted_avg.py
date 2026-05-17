@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    print("Średnia ważona - \n")
+    print("Średnia ważona - apka\n")
     list = []
     weights = []
     user_input = ""
