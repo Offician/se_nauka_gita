@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    print("Średnia arytmetyczna - kalkulator\n")
+    print("Średnia arytmetyczna - apka\n")
     list = []
     user_input = ""
     while True:
